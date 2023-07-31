@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "title": "Geografía",
+        "path": "geografía",
+        "image": "https://res.cloudinary.com/dihhlrchn/image/upload/v1689598350/01-Quiz-app/geografia_tbr881.png",
+        "gradient": "from-cyan-200 to-lime-200"
+    },
+    {
+        "id": 2,
+        "title": "Historia",
+        "path": "historia",
+        "image": "https://res.cloudinary.com/dihhlrchn/image/upload/v1689598350/01-Quiz-app/historia_ck1phb.png",
+        "gradient": "from-sky-300 to-indigo-900"
+    },
+    {
+        "id": 3,
+        "title": "Ciencia",
+        "path": "ciencia",
+        "image": "https://res.cloudinary.com/dihhlrchn/image/upload/v1689598350/01-Quiz-app/ciencia_od74bf.png",
+        "gradient": "from-purple-500 to-pink-500"
+    },
+    {
+        "id": 4,
+        "title": "Deportes",
+        "path": "deportes",
+        "image": "https://res.cloudinary.com/dihhlrchn/image/upload/v1689598350/01-Quiz-app/deportes_aabwut.png",
+        "gradient": "from-lime-400 to-teal-700"
+    },
+    {
+        "id": 5,
+        "title": "Tecnología",
+        "path": "tecnología",
+        "image": "https://res.cloudinary.com/dihhlrchn/image/upload/v1689598350/01-Quiz-app/tecnologia_csagok.png",
+        "gradient": "from-violet-900 to-rose-500"
+    },
+    {
+        "id": 6,
+        "title": "Entretenimiento",
+        "path": "entretenimiento",
+        "image": "https://res.cloudinary.com/dihhlrchn/image/upload/v1689598350/01-Quiz-app/entretenimiento_tre9s5.png",
+        "gradient": "from-amber-400 to-emerald-600"
+    }
+]

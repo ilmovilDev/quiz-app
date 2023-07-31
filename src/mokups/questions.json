@@ -1,0 +1,1442 @@
+[
+    {
+        "id": 1,
+        "difficulty": "Fácil",
+        "category": "geografía",
+        "question": "¿Cuál es el río más largo del mundo?",
+        "correct_answer": "El Río Amazonas",
+        "incorrect_answers": [
+            "El Río Nilo",
+            "El Río Yangtze",
+            "El Río Misisipi"
+        ]
+    },
+    {
+        "id": 2,
+        "difficulty": "Medio",
+        "category": "geografía",
+        "question": "¿Cuál es el océano más grande del mundo?",
+        "correct_answer": "El Océano Pacífico",
+        "incorrect_answers": [
+            "El Océano Atlántico",
+            "El Océano Índico",
+            "El Océano Ártico"
+        ]
+    },
+    {
+        "id": 3,
+        "difficulty": "Medio",
+        "category": "geografía",
+        "question": "¿Cuál es el país más grande del mundo por área territorial?",
+        "correct_answer": "Rusia",
+        "incorrect_answers": [
+            "Canadá",
+            "China",
+            "Estados Unidos"
+        ]
+    },
+    {
+        "id": 4,
+        "difficulty": "Medio",
+        "category": "geografía",
+        "question": "¿Cuál es el lago más profundo del mundo?",
+        "correct_answer": "El Lago Baikal",
+        "incorrect_answers": [
+            "El Lago Superior",
+            "El Lago Victoria",
+            "El Lago Titicaca"
+        ]
+    },
+    {
+        "id": 5,
+        "difficulty": "Fácil",
+        "category": "geografía",
+        "question": "¿Cuál es el país más pequeño del mundo por área territorial?",
+        "correct_answer": "El Vaticano",
+        "incorrect_answers": [
+            "Mónaco",
+            "Nauru",
+            "Tuvalu"
+        ]
+    },
+    {
+        "id": 6,
+        "difficulty": "Fácil",
+        "category": "geografía",
+        "question": "¿Cuál es la montaña más alta del mundo?",
+        "correct_answer": "El Monte Everest",
+        "incorrect_answers": [
+            "El Monte Kilimanjaro",
+            "El Monte Aconcagua",
+            "El Monte Denali"
+        ]
+    },
+    {
+        "id": 7,
+        "difficulty": "Fácil",
+        "category": "geografía",
+        "question": "¿Cuál es el país con la mayor población del mundo?",
+        "correct_answer": "China",
+        "incorrect_answers": [
+            "India",
+            "Estados Unidos",
+            "Brasil"
+        ]
+    },
+    {
+        "id": 8,
+        "difficulty": "Fácil",
+        "category": "geografía",
+        "question": "¿Cuál es la capital de Australia?",
+        "correct_answer": "Canberra",
+        "incorrect_answers": [
+            "Sídney",
+            "Melbourne",
+            "Brisbane"
+        ]
+    },
+    {
+        "id": 9,
+        "difficulty": "Medio",
+        "category": "geografía",
+        "question": "¿Cuál es el país con la mayor extensión de selva amazónica?",
+        "correct_answer": "Brasil",
+        "incorrect_answers": [
+            "Colombia",
+            "Perú",
+            "Ecuador"
+        ]
+    },
+    {
+        "id": 10,
+        "difficulty": "Medio",
+        "category": "geografía",
+        "question": "¿Cuál es el estrecho que separa Asia de América?",
+        "correct_answer": "El Estrecho de Bering",
+        "incorrect_answers": [
+            "El Estrecho de Gibraltar",
+            "El Estrecho de Magallanes",
+            "El Estrecho de Malaca"
+        ]
+    },
+    {
+        "id": 11,
+        "difficulty": "Fácil",
+        "category": "geografía",
+        "question": "¿En qué continente se encuentra el país de Marruecos?",
+        "correct_answer": "África",
+        "incorrect_answers": [
+            "Asia",
+            "Europa",
+            "América"
+        ]
+    },
+    {
+        "id": 12,
+        "difficulty": "Fácil",
+        "category": "geografía",
+        "question": "¿Cuál es la capital de España?",
+        "correct_answer": "Madrid",
+        "incorrect_answers": [
+            "Barcelona",
+            "Sevilla",
+            "Valencia"
+        ]
+    },
+    {
+        "id": 13,
+        "difficulty": "Fácil",
+        "category": "geografía",
+        "question": "¿Cuál es el país más poblado de Europa?",
+        "correct_answer": "Rusia",
+        "incorrect_answers": [
+            "Alemania",
+            "Francia",
+            "Reino Unido"
+        ]
+    },
+    {
+        "id": 14,
+        "difficulty": "Fácil",
+        "category": "geografía",
+        "question": "¿Cuál es el desierto más grande del mundo?",
+        "correct_answer": "El Desierto del Sahara",
+        "incorrect_answers": [
+            "El Desierto de Gobi",
+            "El Desierto de Atacama",
+            "El Desierto de Kalahari"
+        ]
+    },
+    {
+        "id": 15,
+        "difficulty": "Fácil",
+        "category": "geografía",
+        "question": "¿Cuál es la cordillera más larga del mundo?",
+        "correct_answer": "La Cordillera de los Andes",
+        "incorrect_answers": [
+            "La Cordillera del Himalaya",
+            "La Cordillera de los Alpes",
+            "La Cordillera de los Apalaches"
+        ]
+    },
+    {
+        "id": 16,
+        "difficulty": "Medio",
+        "category": "geografía",
+        "question": "¿Cuál es la capital de Argentina?",
+        "correct_answer": "Buenos Aires",
+        "incorrect_answers": [
+            "Santiago",
+            "Lima",
+            "Brasilia"
+        ]
+    },
+    {
+        "id": 17,
+        "difficulty": "Fácil",
+        "category": "geografía",
+        "question": "¿Cuál es el río más largo del mundo?",
+        "correct_answer": "El Río Amazonas",
+        "incorrect_answers": [
+            "El Río Nilo",
+            "El Río Yangtze",
+            "El Río Misisipi"
+        ]
+    },
+    {
+        "id": 18,
+        "difficulty": "Medio",
+        "category": "geografía",
+        "question": "¿Cuál es el océano más grande del mundo?",
+        "correct_answer": "El Océano Pacífico",
+        "incorrect_answers": [
+            "El Océano Atlántico",
+            "El Océano Índico",
+            "El Océano Ártico"
+        ]
+    },
+    {
+        "id": 19,
+        "difficulty": "Medio",
+        "category": "geografía",
+        "question": "¿Cuál es el país más grande del mundo por área territorial?",
+        "correct_answer": "Rusia",
+        "incorrect_answers": [
+            "Canadá",
+            "China",
+            "Estados Unidos"
+        ]
+    },
+    {
+        "id": 20,
+        "difficulty": "Medio",
+        "category": "geografía",
+        "question": "¿Cuál es el lago más profundo del mundo?",
+        "correct_answer": "El Lago Baikal",
+        "incorrect_answers": [
+            "El Lago Superior",
+            "El Lago Victoria",
+            "El Lago Titicaca"
+        ]
+    },
+    {
+        "id": 21,
+        "difficulty": "Fácil",
+        "category": "historia",
+        "question": "¿En qué año comenzó la Segunda Guerra Mundial?",
+        "correct_answer": "1939",
+        "incorrect_answers": [
+            "1941",
+            "1943",
+            "1945"
+        ]
+    },
+    {
+        "id": 22,
+        "difficulty": "Fácil",
+        "category": "historia",
+        "question": "¿Cuál fue el primer presidente de Estados Unidos?",
+        "correct_answer": "George Washington",
+        "incorrect_answers": [
+            "Thomas Jefferson",
+            "Abraham Lincoln",
+            "John F. Kennedy"
+        ]
+    },
+    {
+        "id": 23,
+        "difficulty": "Medio",
+        "category": "historia",
+        "question": "¿En qué año se firmó la Declaración de Independencia de los Estados Unidos?",
+        "correct_answer": "1776",
+        "incorrect_answers": [
+            "1789",
+            "1799",
+            "1812"
+        ]
+    },
+    {
+        "id": 24,
+        "difficulty": "Medio",
+        "category": "historia",
+        "question": "¿Quién fue el líder de la Revolución Rusa en 1917?",
+        "correct_answer": "Vladimir Lenin",
+        "incorrect_answers": [
+            "Joseph Stalin",
+            "Mikhail Gorbachev",
+            "Leon Trotsky"
+        ]
+    },
+    {
+        "id": 25,
+        "difficulty": "Medio",
+        "category": "historia",
+        "question": "¿Cuál fue el nombre del imperio que gobernó gran parte de Europa en el siglo XIX?",
+        "correct_answer": "Imperio Napoleónico",
+        "incorrect_answers": [
+            "Imperio Romano",
+            "Imperio Otomano",
+            "Imperio Británico"
+        ]
+    },
+    {
+        "id": 26,
+        "difficulty": "Fácil",
+        "category": "historia",
+        "question": "¿Cuál fue la primera civilización de la historia?",
+        "correct_answer": "Civilización sumeria",
+        "incorrect_answers": [
+            "Civilización egipcia",
+            "Civilización maya",
+            "Civilización china"
+        ]
+    },
+    {
+        "id": 27,
+        "difficulty": "Medio",
+        "category": "historia",
+        "question": "¿En qué año tuvo lugar la Revolución Francesa?",
+        "correct_answer": "1789",
+        "incorrect_answers": [
+            "1776",
+            "1799",
+            "1812"
+        ]
+    },
+    {
+        "id": 28,
+        "difficulty": "Fácil",
+        "category": "historia",
+        "question": "¿Cuál fue la fecha del fin de la Segunda Guerra Mundial?",
+        "correct_answer": "8 de mayo de 1945",
+        "incorrect_answers": [
+            "1 de septiembre de 1939",
+            "7 de diciembre de 1941",
+            "2 de septiembre de 1945"
+        ]
+    },
+    {
+        "id": 29,
+        "difficulty": "Fácil",
+        "category": "historia",
+        "question": "¿Quién fue el líder de la Revolución Cubana en 1959?",
+        "correct_answer": "Fidel Castro",
+        "incorrect_answers": [
+            "Che Guevara",
+            "Raúl Castro",
+            "Camilo Cienfuegos"
+        ]
+    },
+    {
+        "id": 30,
+        "difficulty": "Medio",
+        "category": "historia",
+        "question": "¿Cuál fue el período conocido como la Edad Media?",
+        "correct_answer": "Del siglo V al siglo XV",
+        "incorrect_answers": [
+            "Del siglo I al siglo V",
+            "Del siglo XV al siglo XVII",
+            "Del siglo XVIII al siglo XX"
+        ]
+    },
+    {
+        "id": 31,
+        "difficulty": "Fácil",
+        "category": "historia",
+        "question": "¿Cuál fue el emperador romano que construyó el Coliseo?",
+        "correct_answer": "Vespasiano",
+        "incorrect_answers": [
+            "Nerón",
+            "Trajano",
+            "Augusto"
+        ]
+    },
+    {
+        "id": 32,
+        "difficulty": "Fácil",
+        "category": "historia",
+        "question": "¿Cuál fue la primera civilización en América?",
+        "correct_answer": "Civilización olmeca",
+        "incorrect_answers": [
+            "Civilización azteca",
+            "Civilización inca",
+            "Civilización maya"
+        ]
+    },
+    {
+        "id": 33,
+        "difficulty": "Medio",
+        "category": "historia",
+        "question": "¿En qué año se produjo la caída del Imperio Romano de Occidente?",
+        "correct_answer": "476",
+        "incorrect_answers": [
+            "1453",
+            "632",
+            "1492"
+        ]
+    },
+    {
+        "id": 34,
+        "difficulty": "Fácil",
+        "category": "historia",
+        "question": "¿Cuál fue la primera dinastía china?",
+        "correct_answer": "Dinastía Xia",
+        "incorrect_answers": [
+            "Dinastía Han",
+            "Dinastía Qin",
+            "Dinastía Tang"
+        ]
+    },
+    {
+        "id": 35,
+        "difficulty": "Medio",
+        "category": "historia",
+        "question": "¿En qué año se firmó el Tratado de Versalles, que puso fin a la Primera Guerra Mundial?",
+        "correct_answer": "1919",
+        "incorrect_answers": [
+            "1914",
+            "1923",
+            "1939"
+        ]
+    },
+    {
+        "id": 36,
+        "difficulty": "Fácil",
+        "category": "historia",
+        "question": "¿Quién fue el líder de la Revolución Bolchevique en Rusia en 1917?",
+        "correct_answer": "Vladimir Lenin",
+        "incorrect_answers": [
+            "Joseph Stalin",
+            "Mikhail Gorbachev",
+            "Leon Trotsky"
+        ]
+    },
+    {
+        "id": 37,
+        "difficulty": "Medio",
+        "category": "historia",
+        "question": "¿Cuál fue la batalla que marcó el fin del dominio napoleónico en Europa?",
+        "correct_answer": "La Batalla de Waterloo",
+        "incorrect_answers": [
+            "La Batalla de Stalingrado",
+            "La Batalla de Trafalgar",
+            "LaBatalla de Leipzig"
+        ]
+    },
+    {
+        "id": 38,
+        "difficulty": "Fácil",
+        "category": "historia",
+        "question": "¿Quién fue el líder de la Revolución Mexicana en 1910?",
+        "correct_answer": "Francisco I. Madero",
+        "incorrect_answers": [
+            "Emiliano Zapata",
+            "Venustiano Carranza",
+            "Porfirio Díaz"
+        ]
+    },
+    {
+        "id": 39,
+        "difficulty": "Medio",
+        "category": "historia",
+        "question": "¿Cuál fue el líder de la Revolución Rusa en 1917?",
+        "correct_answer": "Vladimir Lenin",
+        "incorrect_answers": [
+            "Joseph Stalin",
+            "Mikhail Gorbachev",
+            "Leon Trotsky"
+        ]
+    },
+    {
+        "id": 40,
+        "difficulty": "Fácil",
+        "category": "historia",
+        "question": "¿En qué año se firmó el Tratado de Tordesillas?",
+        "correct_answer": "1494",
+        "incorrect_answers": [
+            "1519",
+            "1521",
+            "1543"
+        ]
+    },
+    {
+        "id": 41,
+        "difficulty": "Fácil",
+        "category": "ciencia",
+        "question": "¿Cuál es el elemento químico más abundante en la Tierra?",
+        "correct_answer": "Oxígeno",
+        "incorrect_answers": [
+            "Hierro",
+            "Silicio",
+            "Carbono"
+        ]
+    },
+    {
+        "id": 42,
+        "difficulty": "Fácil",
+        "category": "ciencia",
+        "question": "¿Cuál es la unidad básica de la vida?",
+        "correct_answer": "Célula",
+        "incorrect_answers": [
+            "Átomo",
+            "Molécula",
+            "Proteína"
+        ]
+    },
+    {
+        "id": 43,
+        "difficulty": "Medio",
+        "category": "ciencia",
+        "question": "¿Cuál es el planeta más grande del Sistema Solar?",
+        "correct_answer": "Júpiter",
+        "incorrect_answers": [
+            "Saturno",
+            "Neptuno",
+            "Marte"
+        ]
+    },
+    {
+        "id": 44,
+        "difficulty": "Fácil",
+        "category": "ciencia",
+        "question": "¿Cuál es la fuerza que mantiene a los pies en el suelo cuando estás parado?",
+        "correct_answer": "Gravedad",
+        "incorrect_answers": [
+            "Fricción",
+            "Tensión",
+            "Elasticidad"
+        ]
+    },
+    {
+        "id": 45,
+        "difficulty": "Medio",
+        "category": "ciencia",
+        "question": "¿Cuál es el órgano más grande del cuerpo humano?",
+        "correct_answer": "La piel",
+        "incorrect_answers": [
+            "El cerebro",
+            "El hígado",
+            "El corazón"
+        ]
+    },
+    {
+        "id": 46,
+        "difficulty": "Fácil",
+        "category": "ciencia",
+        "question": "¿Cuál es la fórmula química del agua?",
+        "correct_answer": "H2O",
+        "incorrect_answers": [
+            "CO2",
+            "NaCl",
+            "C6H12O6"
+        ]
+    },
+    {
+        "id": 47,
+        "difficulty": "Medio",
+        "category": "ciencia",
+        "question": "¿Qué es la mitosis?",
+        "correct_answer": "El proceso de división celular",
+        "incorrect_answers": [
+            "El proceso de fotosíntesis",
+            "El proceso de respiración",
+            "El proceso de digestión"
+        ]
+    },
+    {
+        "id": 48,
+        "difficulty": "Fácil",
+        "category": "ciencia",
+        "question": "¿Cuál es el componente principal del aire?",
+        "correct_answer": "Nitrógeno",
+        "incorrect_answers": [
+            "Oxígeno",
+            "Dióxido de carbono",
+            "Hidrógeno"
+        ]
+    },
+    {
+        "id": 49,
+        "difficulty": "Fácil",
+        "category": "ciencia",
+        "question": "¿Cuál es el proceso por el cual las plantas convierten la luz solar en energía?",
+        "correct_answer": "Fotosíntesis",
+        "incorrect_answers": [
+            "Respiración",
+            "Digestión",
+            "Evaporación"
+        ]
+    },
+    {
+        "id": 50,
+        "difficulty": "Medio",
+        "category": "ciencia",
+        "question": "¿Cuál es la unidad de medida de la corriente eléctrica?",
+        "correct_answer": "Amperio",
+        "incorrect_answers": [
+            "Voltio",
+            "Vatio",
+            "Ohmio"
+        ]
+    },
+    {
+        "id": 51,
+        "difficulty": "Fácil",
+        "category": "ciencia",
+        "question": "¿Cuál es el planeta más cercano al Sol?",
+        "correct_answer": "Mercurio",
+        "incorrect_answers": [
+            "Venus",
+            "Marte",
+            "Júpiter"
+        ]
+    },
+    {
+        "id": 52,
+        "difficulty": "Fácil",
+        "category": "ciencia",
+        "question": "¿Cuál es el proceso de descomposición de los organismos?",
+        "correct_answer": "Putrefacción",
+        "incorrect_answers": [
+            "Fermentación",
+            "Combustión",
+            "Ebullición"
+        ]
+    },
+    {
+        "id": 53,
+        "difficulty": "Medio",
+        "category": "ciencia",
+        "question": "¿Cuál es la partícula subatómica con carga negativa?",
+        "correct_answer": "Electrón",
+        "incorrect_answers": [
+            "Protón",
+            "Neutrón",
+            "Átomo"
+        ]
+    },
+    {
+        "id": 54,
+        "difficulty": "Fácil",
+        "category": "ciencia",
+        "question": "¿Cuál es el proceso por el cual el agua se convierte en vapor?",
+        "correct_answer": "Evaporación",
+        "incorrect_answers": [
+            "Condensación",
+            "Solidificación",
+            "Fusión"
+        ]
+    },
+    {
+        "id": 55,
+        "difficulty": "Medio",
+        "category": "ciencia",
+        "question": "¿Cuál es la fórmula química del dióxido de carbono?",
+        "correct_answer": "CO2",
+        "incorrect_answers": [
+            "H2O",
+            "NaCl",
+            "C6H12O6"
+        ]
+    },
+    {
+        "id": 56,
+        "difficulty": "Fácil",
+        "category": "ciencia",
+        "question": "¿Cuál es el proceso por el cual los seres vivos obtienen energía de los alimentos?",
+        "correct_answer": "Respiración",
+        "incorrect_answers": [
+            "Fotosíntesis",
+            "Digestión",
+            "Evaporación"
+        ]
+    },
+    {
+        "id": 57,
+        "difficulty": "Medio",
+        "category": "ciencia",
+        "question": "¿Cuál es la velocidad de la luz en el vacío?",
+        "correct_answer": "299,792,458 metros por segundo",
+        "incorrect_answers": [
+            "100,000 metros por segundo",
+            "1,000,000 metros por segundo",
+            "500,000 metros por segundo"
+        ]
+    },
+    {
+        "id": 58,
+        "difficulty": "Fácil",
+        "category": "ciencia",
+        "question": "¿Cuál es el elemento químico más abundante en la Tierra?",
+        "correct_answer": "Oxígeno",
+        "incorrect_answers": [
+            "Hierro",
+            "Silicio",
+            "Carbono"
+        ]
+    },
+    {
+        "id": 59,
+        "difficulty": "Fácil",
+        "category": "ciencia",
+        "question": "¿Cuál es el proceso por el cual los seres vivos obtienen energía de los alimentos?",
+        "correct_answer": "Respiración",
+        "incorrect_answers": [
+            "Fotosíntesis",
+            "Digestión",
+            "Evaporación"
+        ]
+    },
+    {
+        "id": 60,
+        "difficulty": "Medio",
+        "category": "ciencia",
+        "question": "¿Cuál es la velocidad de la luz en el vacío?",
+        "correct_answer": "299,792,458 metros por segundo",
+        "incorrect_answers": [
+            "100,000 metros por segundo",
+            "1,000,000 metros por segundo",
+            "500,000 metros por segundo"
+        ]
+    },
+    {
+        "id": 61,
+        "difficulty": "Fácil",
+        "category": "deportes",
+        "question": "¿Cuál es el deporte más popular en Estados Unidos?",
+        "correct_answer": "Fútbol americano",
+        "incorrect_answers": [
+            "Béisbol",
+            "Baloncesto",
+            "Fútbol"
+        ]
+    },
+    {
+        "id": 62,
+        "difficulty": "Fácil",
+        "category": "deportes",
+        "question": "¿Cuál es el máximo torneo de tenis en el mundo?",
+        "correct_answer": "Wimbledon",
+        "incorrect_answers": [
+            "Roland Garros",
+            "US Open",
+            "Australian Open"
+        ]
+    },
+    {
+        "id": 63,
+        "difficulty": "Medio",
+        "category": "deportes",
+        "question": "¿Cuál es el récord mundial de Usain Bolt en los 100 metros planos?",
+        "correct_answer": "9.58 segundos",
+        "incorrect_answers": [
+            "9.63 segundos",
+            "9.69 segundos",
+            "9.74 segundos"
+        ]
+    },
+    {
+        "id": 64,
+        "difficulty": "Fácil",
+        "category": "deportes",
+        "question": "¿Cuál es el equipo de fútbol más laureado de España?",
+        "correct_answer": "Real Madrid",
+        "incorrect_answers": [
+            "Barcelona",
+            "Atlético de Madrid",
+            "Valencia"
+        ]
+    },
+    {
+        "id": 65,
+        "difficulty": "Medio",
+        "category": "deportes",
+        "question": "¿En qué ciudad se celebraron los primeros Juegos Olímpicos modernos en 1896?",
+        "correct_answer": "Atenas",
+        "incorrect_answers": [
+            "Roma",
+            "París",
+            "Londres"
+        ]
+    },
+    {
+        "id": 66,
+        "difficulty": "Fácil",
+        "category": "deportes",
+        "question": "¿Cuál es el deporte más practicado en el mundo?",
+        "correct_answer": "Fútbol",
+        "incorrect_answers": [
+            "Baloncesto",
+            "Tenis",
+            "Golf"
+        ]
+    },
+    {
+        "id": 67,
+        "difficulty": "Medio",
+        "category": "deportes",
+        "question": "¿Cuál es el país más exitoso en la historia de los Juegos Olímpicos?",
+        "correct_answer": "Estados Unidos",
+        "incorrect_answers": [
+            "China",
+            "Rusia",
+            "Reino Unido"
+        ]
+    },
+    {
+        "id": 68,
+        "difficulty": "Fácil",
+        "category": "deportes",
+        "question": "¿En qué deporte se utiliza una raqueta para golpear una pelota contra una pared?",
+        "correct_answer": "Squash",
+        "incorrect_answers": [
+            "Tenis",
+            "Bádminton",
+            "Ping Pong"
+        ]
+    },
+    {
+        "id": 69,
+        "difficulty": "Fácil",
+        "category": "deportes",
+        "question": "¿En qué país se originó el judo?",
+        "correct_answer": "Japón",
+        "incorrect_answers": [
+            "China",
+            "Corea del Sur",
+            "Brasil"
+        ]
+    },
+    {
+        "id": 70,
+        "difficulty": "Medio",
+        "category": "deportes",
+        "question": "¿Cuál es el club de fútbol más exitoso de Italia?",
+        "correct_answer": "Juventus",
+        "incorrect_answers": [
+            "Milan",
+            "Inter de Milán",
+            "Roma"
+        ]
+    },
+    {
+        "id": 71,
+        "difficulty": "Fácil",
+        "category": "deportes",
+        "question": "¿En qué deporte se otorgan las Medallas de Oro, Plata y Bronce en los Juegos Olímpicos?",
+        "correct_answer": "Atletismo",
+        "incorrect_answers": [
+            "Natación",
+            "Gimnasia",
+            "Ciclismo"
+        ]
+    },
+    {
+        "id": 72,
+        "difficulty": "Fácil",
+        "category": "deportes",
+        "question": "¿Cuál es el deporte más popular en India?",
+        "correct_answer": "Críquet",
+        "incorrect_answers": [
+            "Hockey",
+            "Fútbol",
+            "Tenis"
+        ]
+    },
+    {
+        "id": 73,
+        "difficulty": "Medio",
+        "category": "deportes",
+        "question": "¿Cuál es el récord mundial en salto de altura masculino?",
+        "correct_answer": "2.45 metros",
+        "incorrect_answers": [
+            "2.42 metros",
+            "2.40 metros",
+            "2.38 metros"
+        ]
+    },
+    {
+        "id": 74,
+        "difficulty": "Fácil",
+        "category": "deportes",
+        "question": "¿Cuál es el deporte nacional de Canadá?",
+        "correct_answer": "Hockey sobre hielo",
+        "incorrect_answers": [
+            "Lacrosse",
+            "Fútbol",
+            "Béisbol"
+        ]
+    },
+    {
+        "id": 75,
+        "difficulty": "Medio",
+        "category": "deportes",
+        "question": "¿Cuál es el equipo de fútbol más exitoso de Alemania?",
+        "correct_answer": "Bayern Munich",
+        "incorrect_answers": [
+            "Borussia Dortmund",
+            "Hamburgo",
+            "Schalke 04"
+        ]
+    },
+    {
+        "id": 76,
+        "difficulty": "Fácil",
+        "category": "deportes",
+        "question": "¿En qué deporte se utiliza una canoa o kayak?",
+        "correct_answer": "Piragüismo",
+        "incorrect_answers": [
+            "Remo",
+            "Vela",
+            "Surf"
+        ]
+    },
+    {
+        "id": 77,
+        "difficulty": "Medio",
+        "category": "deportes",
+        "question": "¿Cuál es el récord mundial en lanzamiento de jabalina masculino?",
+        "correct_answer": "98.48 metros",
+        "incorrect_answers": [
+            "96.48 metros",
+            "94.48 metros",
+            "92.48 metros"
+        ]
+    },
+    {
+        "id": 78,
+        "difficulty": "Medio",
+        "category": "deportes",
+        "question": "¿Cuál es el deporte más popular en India?",
+        "correct_answer": "Críquet",
+        "incorrect_answers": [
+            "Hockey sobre césped",
+            "Fútbol",
+            "Tenis"
+        ]
+    },
+    {
+        "id": 79,
+        "difficulty": "Medio",
+        "category": "deportes",
+        "question": "¿Cuántos jugadores componen un equipo de baloncesto en el campo?",
+        "correct_answer": "5",
+        "incorrect_answers": [
+            "7",
+            "6",
+            "4"
+        ]
+    },
+    {
+        "id": 80,
+        "difficulty": "Difícil",
+        "category": "deportes",
+        "question": "¿Quién tiene el récord de más medallas de oro olímpicas en atletismo?",
+        "correct_answer": "Usain Bolt",
+        "incorrect_answers": [
+            "Michael Phelps",
+            "Carl Lewis",
+            "Jesse Owens"
+        ]
+    },
+    {
+        "id": 81,
+        "difficulty": "Fácil",
+        "category": "tecnología",
+        "question": "¿Qué significa la sigla CPU en informática?",
+        "correct_answer": "Central Processing Unit",
+        "incorrect_answers": [
+            "Computer Personal Unit",
+            "Control Processing Unit",
+            "Central Personal Unit"
+        ]
+    },
+    {
+        "id": 82,
+        "difficulty": "Fácil",
+        "category": "tecnología",
+        "question": "¿Qué significa la sigla HTML en el contexto de desarrollo web?",
+        "correct_answer": "HyperText Markup Language",
+        "incorrect_answers": [
+            "Home Tool Markup Language",
+            "Hyperlink and Text Markup Language",
+            "Home Text Markup Language"
+        ]
+    },
+    {
+        "id": 83,
+        "difficulty": "Medio",
+        "category": "tecnología",
+        "question": "¿Qué es un archivo con extensión .jpg o .jpeg?",
+        "correct_answer": "Un archivo de imagen",
+        "incorrect_answers": [
+            "Un archivo de audio",
+            "Un archivo de video",
+            "Un archivo de texto"
+        ]
+    },
+    {
+        "id": 84,
+        "difficulty": "Fácil",
+        "category": "tecnología",
+        "question": "¿Cuál es el lenguaje de programación más utilizado actualmente?",
+        "correct_answer": "Java",
+        "incorrect_answers": [
+            "Python",
+            "C++",
+            "JavaScript"
+        ]
+    },
+    {
+        "id": 85,
+        "difficulty": "Medio",
+        "category": "tecnología",
+        "question": "¿Qué es un firewall en el ámbito de la seguridad informática?",
+        "correct_answer": "Un sistema de protección de red",
+        "incorrect_answers": [
+            "Un dispositivo de almacenamiento",
+            "Un programa antivirus",
+            "Un protocolo de comunicación"
+        ]
+    },
+    {
+        "id": 86,
+        "difficulty": "Fácil",
+        "category": "tecnología",
+        "question": "¿Cuál es el sistema operativo más utilizado en dispositivos móviles?",
+        "correct_answer": "Android",
+        "incorrect_answers": [
+            "iOS",
+            "Windows",
+            "Linux"
+        ]
+    },
+    {
+        "id": 87,
+        "difficulty": "Medio",
+        "category": "tecnología",
+        "question": "¿Qué es el almacenamiento en la nube?",
+        "correct_answer": "El almacenamiento de datos en servidores remotos",
+        "incorrect_answers": [
+            "El almacenamiento de datos en dispositivos físicos",
+            "El almacenamiento de datos en redes locales",
+            "El almacenamiento de datos en la memoria RAM"
+        ]
+    },
+    {
+        "id": 88,
+        "difficulty": "Fácil",
+        "category": "tecnología",
+        "question": "¿Qué es un enlace URL?",
+        "correct_answer": "La dirección de una página web",
+        "incorrect_answers": [
+            "El nombre de un archivo",
+            "La dirección de un servidor",
+            "El nombre de un programa"
+        ]
+    },
+    {
+        "id": 89,
+        "difficulty": "Fácil",
+        "category": "tecnología",
+        "question": "¿Cuál es el navegador web más utilizado?",
+        "correct_answer": "Google Chrome",
+        "incorrect_answers": [
+            "Mozilla Firefox",
+            "Internet Explorer",
+            "Safari"
+        ]
+    },
+    {
+        "id": 90,
+        "difficulty": "Medio",
+        "category": "tecnología",
+        "question": "¿Qué es el protocolo HTTP en el ámbito de la comunicación web?",
+        "correct_answer": "Hypertext Transfer Protocol",
+        "incorrect_answers": [
+            "Home Text Transfer Protocol",
+            "Hyperlink Transfer Protocol",
+            "Hypertext Terminal Protocol"
+        ]
+    },
+    {
+        "id": 91,
+        "difficulty": "Fácil",
+        "category": "tecnología",
+        "question": "¿Qué es un archivo con extensión .pdf?",
+        "correct_answer": "Un archivo de documentos",
+        "incorrect_answers": [
+            "Un archivo de audio",
+            "Un archivo de video",
+            "Un archivo de imagen"
+        ]
+    },
+    {
+        "id": 92,
+        "difficulty": "Fácil",
+        "category": "tecnología",
+        "question": "¿Qué significa la sigla USB en el contexto de dispositivos electrónicos?",
+        "correct_answer": "Universal Serial Bus",
+        "incorrect_answers": [
+            "United States of America Serial Bus",
+            "Ultra Speed Bus",
+            "User Serviceable Bus"
+        ]
+    },
+    {
+        "id": 93,
+        "difficulty": "Medio",
+        "category": "tecnología",
+        "question": "¿Cuál es el componente principal de un disco duro?",
+        "correct_answer": "Unidad de disco",
+        "incorrect_answers": [
+            "Procesador",
+            "Memoria RAM",
+            "Tarjeta gráfica"
+        ]
+    },
+    {
+        "id": 94,
+        "difficulty": "Fácil",
+        "category": "tecnología",
+        "question": "¿Qué es un hashtag en las redes sociales?",
+        "correct_answer": "Una etiqueta temática",
+        "incorrect_answers": [
+            "Un enlace a una página web",
+            "Un símbolo de exclamación",
+            "Un acrónimo de una frase"
+        ]
+    },
+    {
+        "id": 95,
+        "difficulty": "Medio",
+        "category": "tecnología",
+        "question": "¿Cuál es el sistema operativo más utilizado en computadoras de escritorio?",
+        "correct_answer": "Windows",
+        "incorrect_answers": [
+            "MacOS",
+            "Linux",
+            "iOS"
+        ]
+    },
+    {
+        "id": 96,
+        "difficulty": "Fácil",
+        "category": "tecnología",
+        "question": "¿Cuál es la función principal de un router en una red de computadoras?",
+        "correct_answer": "Dirigir el tráfico de datos",
+        "incorrect_answers": [
+            "Procesar datos",
+            "Almacenar datos",
+            "Transmitir datos"
+        ]
+    },
+    {
+        "id": 97,
+        "difficulty": "Fácil",
+        "category": "tecnología",
+        "question": "¿Qué es un archivo con extensión .mp3?",
+        "correct_answer": "Un archivo de audio",
+        "incorrect_answers": [
+            "Un archivo de video",
+            "Un archivo de imagen",
+            "Un archivo de texto"
+        ]
+    },
+    {
+        "id": 98,
+        "difficulty": "Medio",
+        "category": "tecnología",
+        "question": "¿Qué empresa desarrolló el primer microprocesador de computadora?",
+        "correct_answer": "Intel",
+        "incorrect_answers": [
+            "IBM",
+            "Microsoft",
+            "Apple"
+        ]
+    },
+    {
+        "id": 99,
+        "difficulty": "Medio",
+        "category": "tecnología",
+        "question": "¿Cuál es el estándar de redes inalámbricas Wi-Fi más utilizado en la actualidad?",
+        "correct_answer": "802.11ac",
+        "incorrect_answers": [
+            "802.11n",
+            "802.11g",
+            "802.11b"
+        ]
+    },
+    {
+        "id": 100,
+        "difficulty": "Medio",
+        "category": "tecnología",
+        "question": "¿Qué significa la sigla URL en informática?",
+        "correct_answer": "Uniform Resource Locator",
+        "incorrect_answers": [
+            "Universal Resource Link",
+            "Uniform Reference Locator",
+            "Unified Resource Locator"
+        ]
+    },
+    {
+        "id": 101,
+        "difficulty": "Fácil",
+        "category": "entretenimiento",
+        "question": "¿Cuál es el título de la primera película de la saga 'Star Wars'?",
+        "correct_answer": "Star Wars: Episodio IV - Una nueva esperanza",
+        "incorrect_answers": [
+            "Star Wars: Episodio I - La amenaza fantasma",
+            "Star Wars: Episodio V - El Imperio contraataca",
+            "Star Wars: Episodio VII - El despertar de la fuerza"
+        ]
+    },
+    {
+        "id": 102,
+        "difficulty": "Medio",
+        "category": "entretenimiento",
+        "question": "¿Cuál es el nombre del mago protagonista de la serie de libros 'Harry Potter'?",
+        "correct_answer": "Harry Potter",
+        "incorrect_answers": [
+            "Ron Weasley",
+            "Hermione Granger",
+            "Draco Malfoy"
+        ]
+    },
+    {
+        "id": 103,
+        "difficulty": "Fácil",
+        "category": "entretenimiento",
+        "question": "¿Cuál es la película animada más taquillera de todos los tiempos?",
+        "correct_answer": "Frozen 2",
+        "incorrect_answers": [
+            "El rey león",
+            "Los increíbles 2",
+            "Toy Story 4"
+        ]
+    },
+    {
+        "id": 104,
+        "difficulty": "Medio",
+        "category": "entretenimiento",
+        "question": "¿Cuál es el personaje principal de la serie de televisión 'Breaking Bad'?",
+        "correct_answer": "Walter White",
+        "incorrect_answers": [
+            "Jesse Pinkman",
+            "Saul Goodman",
+            "Skyler White"
+        ]
+    },
+    {
+        "id": 105,
+        "difficulty": "Fácil",
+        "category": "entretenimiento",
+        "question": "¿Cuál es el título de la primera película de la saga 'El señor de los anillos'?",
+        "correct_answer": "El señor de los anillos: La comunidad del anillo",
+        "incorrect_answers": [
+            "El señor de los anillos: Las dos torres",
+            "El señor de los anillos: El retorno del rey",
+            "El hobbit: Un viaje inesperado"
+        ]
+    },
+    {
+        "id": 106,
+        "difficulty": "Fácil",
+        "category": "entretenimiento",
+        "question": "¿Quién interpretó el papel de Joker en la película 'The Dark Knight'?",
+        "correct_answer": "Heath Ledger",
+        "incorrect_answers": [
+            "Joaquin Phoenix",
+            "Jack Nicholson",
+            "Jared Leto"
+        ]
+    },
+    {
+        "id": 107,
+        "difficulty": "Medio",
+        "category": "entretenimiento",
+        "question": "¿Cuál es el nombre del personaje interpretado por Johnny Depp en la saga 'Piratas del Caribe'?",
+        "correct_answer": "Jack Sparrow",
+        "incorrect_answers": [
+            "Will Turner",
+            "Hector Barbossa",
+            "Elizabeth Swann"
+        ]
+    },
+    {
+        "id": 108,
+        "difficulty": "Fácil",
+        "category": "entretenimiento",
+        "question": "¿En qué ciudad se desarrolla la serie de televisión 'Friends'?",
+        "correct_answer": "Nueva York",
+        "incorrect_answers": [
+            "Los Ángeles",
+            "Chicago",
+            "Londres"
+        ]
+    },
+    {
+        "id": 109,
+        "difficulty": "Fácil",
+        "category": "entretenimiento",
+        "question": "¿Cuál es el nombre del personaje interpretado por Robert Pattinson en la saga 'Crepúsculo'?",
+        "correct_answer": "Edward Cullen",
+        "incorrect_answers": [
+            "Jacob Black",
+            "Bella Swan",
+            "Alice Cullen"
+        ]
+    },
+    {
+        "id": 110,
+        "difficulty": "Medio",
+        "category": "entretenimiento",
+        "question": "¿Cuál es el nombre del personaje principal de la serie de televisión 'The Big Bang Theory'?",
+        "correct_answer": "Sheldon Cooper",
+        "incorrect_answers": [
+            "Leonard Hofstadter",
+            "Penny",
+            "Howard Wolowitz"
+        ]
+    },
+    {
+        "id": 111,
+        "difficulty": "Fácil",
+        "category": "entretenimiento",
+        "question": "¿Quién es el actor que interpreta a Tony Stark / Iron Man en el Universo Cinematográfico de Marvel?",
+        "correct_answer": "Robert Downey Jr.",
+        "incorrect_answers": [
+            "Chris Evans",
+            "Chris Hemsworth",
+            "Mark Ruffalo"
+        ]
+    },
+    {
+        "id": 112,
+        "difficulty": "Fácil",
+        "category": "entretenimiento",
+        "question": "¿Cuál es el nombre del personaje principal en la serie de televisión 'Stranger Things'?",
+        "correct_answer": "Eleven",
+        "incorrect_answers": [
+            "Mike Wheeler",
+            "Dustin Henderson",
+            "Will Byers"
+        ]
+    },
+    {
+        "id": 113,
+        "difficulty": "Medio",
+        "category": "entretenimiento",
+        "question": "¿Cuál es el título de la primera película de la saga 'Matrix'?",
+        "correct_answer": "Matrix",
+        "incorrect_answers": [
+            "Matrix: Recargado",
+            "Matrix: Revoluciones",
+            "Matrix: Resurrecciones"
+        ]
+    },
+    {
+        "id": 114,
+        "difficulty": "Fácil",
+        "category": "entretenimiento",
+        "question": "¿Cuál es la canción más reproducida en la plataforma de streaming Spotify?",
+        "correct_answer": "Shape of You - Ed Sheeran",
+        "incorrect_answers": [
+            "Despacito - Luis Fonsi",
+            "Dance Monkey - Tones and I",
+            "Blinding Lights - The Weeknd"
+        ]
+    },
+    {
+        "id": 115,
+        "difficulty": "Fácil",
+        "category": "entretenimiento",
+        "question": "¿Quién interpreta el papel de Iron Man en las películas de Marvel?",
+        "correct_answer": "Robert Downey Jr.",
+        "incorrect_answers": [
+            "Chris Evans",
+            "Chris Hemsworth",
+            "Mark Ruffalo"
+        ]
+    },
+    {
+        "id": 116,
+        "difficulty": "Fácil",
+        "category": "entretenimiento",
+        "question": "¿Cuál es la película más taquillera de todos los tiempos?",
+        "correct_answer": "Avengers: Endgame",
+        "incorrect_answers": [
+            "Avatar",
+            "Titanic",
+            "Star Wars: El despertar de la fuerza"
+        ]
+    },
+    {
+        "id": 117,
+        "difficulty": "Fácil",
+        "category": "entretenimiento",
+        "question": "¿Cuál es la franquicia de videojuegos más exitosa de todos los tiempos?",
+        "correct_answer": "Super Mario",
+        "incorrect_answers": [
+            "Pokémon",
+            "Grand Theft Auto",
+            "Call of Duty"
+        ]
+    },
+    {
+        "id": 118,
+        "difficulty": "Fácil",
+        "category": "entretenimiento",
+        "question": "¿Quién es el director de la trilogía de películas 'El señor de los anillos'?",
+        "correct_answer": "Peter Jackson",
+        "incorrect_answers": [
+            "Christopher Nolan",
+            "Steven Spielberg",
+            "Quentin Tarantino"
+        ]
+    },
+    {
+        "id": 119,
+        "difficulty": "Medio",
+        "category": "entretenimiento",
+        "question": "¿Cuál es el nombre del protagonista en la serie de televisión 'Breaking Bad'?",
+        "correct_answer": "Walter White",
+        "incorrect_answers": [
+            "Jesse Pinkman",
+            "Saul Goodman",
+            "Skyler White"
+        ]
+    },
+    {
+        "id": 120,
+        "difficulty": "Medio",
+        "category": "entretenimiento",
+        "question": "¿Quién escribió la famosa novela '1984'?",
+        "correct_answer": "George Orwell",
+        "incorrect_answers": [
+            "Aldous Huxley",
+            "Ray Bradbury",
+            "Ernest Hemingway"
+        ]
+    }
+]
